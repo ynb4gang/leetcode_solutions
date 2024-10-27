@@ -9,8 +9,6 @@
 
 ## Solutions
 
-The listing below is sorted based on LeetCode #. If you are interested to see my latest solutions in chronological order, check out the [releases](https://github.com/ecgan/leetcode/releases) page, or my [code commits](https://github.com/ecgan/leetcode/commits/master).
-
 | LeetCode # | Title | Difficulty | Topics |
 |-----------:|:------|:-----------|:-------|
 | 1 | [Two Sum](/easy/TwoSum.java) | Easy | Array, hash table |
