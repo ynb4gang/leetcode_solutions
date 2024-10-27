@@ -16,4 +16,4 @@
 | 13 | [Roman to Integer](/easy/RomanToInteger.java) | Easy | Hash Table, Math, String |
 | 14 | [Longest Common Prefix](/easy/LongestCommonPrefix.java) | Easy | String, Trie |
 | 20 | [Valid Parentheses](/easy/ValidParentheses.java) | Easy | String, Stack |
-| 34 | [Find First and Last Position of Element in Sorted Array](/medium/FindFirstAndLastPositionOfElementInSortedArray.java) | Easy | Array, Binary Search |
+| 34 | [Find First and Last Position of Element in Sorted Array](/medium/FindFirstAndLastPositionOfElementInSortedArray.java) | Medium | Array, Binary Search |
