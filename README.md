@@ -2,7 +2,7 @@
 
 ## Submitting / Running in LeetCode
 
-1. Find your problem in the folder.
+1. Find your problem in the folders.
 2. Copy the solution.
 3. Paste the code into LeetCode.
 4. Hit the Run or Submit button.
